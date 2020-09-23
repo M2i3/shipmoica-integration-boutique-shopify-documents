@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Bienvenue sur le site de documentation de l'intégration de Shipmoi.ca avec une boutique Shopify
 
-You can use the [editor on GitHub](https://github.com/M2i3/shipmoica-integration-boutique-shopify-documents/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Le microsite qui suit contient les politiques de confidentialité ainsi que la documentation pour l'utilisation de l'intégration Shipmoi.ca avec une boutique Shopify.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pour consulter la [politique de confidentialité][/privacy-policy-fr.pdf].
 
-### Markdown
+### Qui est Shipmoi.ca
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shipmoi.ca est un agent en transport qui fait bénéficier les entreprises de prix avantageux. Obtenez les meilleurs prix, sans contrat et sans minimum.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M2i3/shipmoica-integration-boutique-shopify-documents/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Pour plus d'information sur nos services nous vous suggérons une visite sur le site web [Shipmoi.ca][https://www.shipmoi.ca/]
