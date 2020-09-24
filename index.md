@@ -2,7 +2,7 @@
 
 Le microsite qui suit contient les politiques de confidentialité ainsi que la documentation pour l'utilisation de l'intégration Shipmoi.ca avec une boutique Shopify.
 
-Pour consulter la [politique de confidentialité](/privacy-policy-fr.pdf).
+Pour consulter la [politique de confidentialité](/privacy-policy-fr.pdf). Cette politique de confidentialité est aussi disponible en [anglais](/privacy-policy-en.pdf)
 
 ### Qui est Shipmoi.ca
 
